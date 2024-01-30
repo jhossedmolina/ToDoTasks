@@ -10,6 +10,9 @@ namespace ToDoTasks.Infraestructure.Mappings
         {
             CreateMap<ToDoTask, ToDoTaskDto>();
             CreateMap<ToDoTaskDto, ToDoTask>();
+
+            CreateMap<Category, CategoryDto>();
+            CreateMap<CategoryDto, Category>();
         }
     }
 }
