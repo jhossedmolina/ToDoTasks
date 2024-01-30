@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDoTasks.Infraestructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ff3e769b7440191be2d035d5a7574be272feed8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82117a8d1e2d1f29e4dfa44ab047ba08de46c2d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDoTasks.Infraestructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDoTasks.Infraestructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
