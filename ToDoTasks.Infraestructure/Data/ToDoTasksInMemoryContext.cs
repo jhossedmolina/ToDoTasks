@@ -13,9 +13,12 @@ namespace ToDoTasks.Infraestructure.Data
 
         public DbSet<ToDoTask> ToDoTasks { get; set; }
 
+        public DbSet<Category> Categories { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(ToDoTaskConfiguration).Assembly);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(CategoryConfiguration).Assembly);
         }
     }
 }

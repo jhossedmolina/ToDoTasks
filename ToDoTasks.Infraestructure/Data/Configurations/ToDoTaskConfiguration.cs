@@ -16,10 +16,6 @@ namespace ToDoTasks.Infraestructure.Data.Configurations
             builder.Property(x => x.Description)
                 .IsRequired();
 
-            builder.Property(x => x.Date)
-                .IsRequired()
-                .HasDefaultValue(DateTime.Now.ToString("yyyy/MM/dd"));
-
             builder.Property(x => x.Time)
                 .IsRequired();
         }

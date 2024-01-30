@@ -9,6 +9,9 @@ C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\bin\Debug\net8.0\AutoMapper.
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\bin\Debug\net8.0\Humanizer.dll
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll

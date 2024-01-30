@@ -15,7 +15,7 @@ namespace ToDoTasks.Infraestructure.Repositories
 
         public IEnumerable<ToDoTask> GetAllTasks()
         {
-            return (IEnumerable<ToDoTask>)_context.ToDoTasks.ToList();
+            return _context.ToDoTasks.ToList();
         }
 
         public async Task<ToDoTask> GetTaskById(int id)
@@ -38,6 +38,7 @@ namespace ToDoTasks.Infraestructure.Repositories
             currentTask.StartDateTime = toDoTask.StartDateTime;
             currentTask.EndDateTime = toDoTask.EndDateTime;
             currentTask.Time = toDoTask.Time;
+
             var rows = await _context.SaveChangesAsync();
             return rows > 0;
         }
@@ -46,6 +47,7 @@ namespace ToDoTasks.Infraestructure.Repositories
         {
             var currentTask = await GetTaskById(id);
             _context.ToDoTasks.Remove(currentTask);
+
             var rows = await _context.SaveChangesAsync();
             return rows > 0;
         }

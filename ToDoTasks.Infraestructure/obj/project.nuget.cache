@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vgds10oxjvYDn6euCfUktI2NDU6Y99odzmFm5i7UcmsKsImSTV/RJ8WyCiyO0g3h1J0+sT2Hqrk3rWoHLhiTDw==",
+  "dgSpecHash": "od5g5NrQgRqxHw9UWMw3UQwAEEoRtlUTlZL8GO7ZKYbSdmpQYIqds0c7TR2gW5v100K7bUD8fu2/oCntycOsSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhoss\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jhoss\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jhoss\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\jhoss\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\jhoss\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jhoss\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\jhoss\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

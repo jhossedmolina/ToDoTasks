@@ -33,7 +33,7 @@ namespace ToDoTasks.API.Controllers
         {
             var task = await _toDoTaskService.GetTaskById(id);
             var taskDto = _mapper.Map<ToDoTaskDto>(task);
-            if (taskDto == null)
+            if (taskDto is null)
                 return NotFound();
             return Ok(taskDto);
         }
@@ -50,7 +50,7 @@ namespace ToDoTasks.API.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateTask(int id, ToDoTaskDto toDoTaskDto)
         {
-            var getTaskById = _toDoTaskService.GetTaskById(id);
+            var getTaskById = await _toDoTaskService.GetTaskById(id);
             if (getTaskById is null)
                 return NotFound();
 

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HPeLLdbl1rZGqVRFMuc0hD/PRqdexDLY1srMM+bLcjhPnAWuNfUhxTCPdINaGZosFSvURPHOjsoTpWdvo2IJkQ==",
+  "dgSpecHash": "tSfCBDBJevw2q9q+rX9nTDXkeOOqOOtaF9vusSwpzlBeYGlEbbDYR23sFptlY4iF1ISB8up5oAMv6YmEyAoW9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.API\\ToDoTasks.API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\jhoss\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\jhoss\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jhoss\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\jhoss\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\jhoss\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\jhoss\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\jhoss\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jhoss\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\jhoss\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
