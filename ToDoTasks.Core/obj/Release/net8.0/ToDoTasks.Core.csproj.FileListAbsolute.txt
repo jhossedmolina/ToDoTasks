@@ -1,0 +1,12 @@
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\bin\Release\net8.0\ToDoTasks.Core.deps.json
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\bin\Release\net8.0\ToDoTasks.Core.dll
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\bin\Release\net8.0\ToDoTasks.Core.pdb
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\obj\Release\net8.0\ToDoTasks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\obj\Release\net8.0\ToDoTasks.Core.AssemblyInfoInputs.cache
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\obj\Release\net8.0\ToDoTasks.Core.AssemblyInfo.cs
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\obj\Release\net8.0\ToDoTasks.Core.csproj.CoreCompileInputs.cache
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\obj\Release\net8.0\ToDoTasks.Core.sourcelink.json
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\obj\Release\net8.0\ToDoTasks.Core.dll
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\obj\Release\net8.0\refint\ToDoTasks.Core.dll
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\obj\Release\net8.0\ToDoTasks.Core.pdb
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Core\obj\Release\net8.0\ref\ToDoTasks.Core.dll

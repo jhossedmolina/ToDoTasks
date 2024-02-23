@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ToDoTasks.Core.Interfaces
+{
+    public interface IGenericRepository<T> where T : class
+    {
+        IEnumerable<T> GetAll();
+
+        Task<T> GetById(int id);
+
+        Task Add(T entity);
+
+        Task<bool> Update(T entity);
+
+        Task<bool> Delete(int id);
+    }
+}

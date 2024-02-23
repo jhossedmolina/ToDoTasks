@@ -139,9 +139,9 @@ C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\staticwebas
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToDoTasks.API.props
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\scopedcss\bundle\ToDoTasks.API.styles.css
-C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\ToDoTasks.API.csproj.CopyComplete
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\ToDoTasks.API.dll
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\refint\ToDoTasks.API.dll
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\ToDoTasks.API.pdb
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\ToDoTasks.API.genruntimeconfig.cache
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\ref\ToDoTasks.API.dll
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.API\obj\Debug\net8.0\ToDoTask.610264E9.Up2Date
