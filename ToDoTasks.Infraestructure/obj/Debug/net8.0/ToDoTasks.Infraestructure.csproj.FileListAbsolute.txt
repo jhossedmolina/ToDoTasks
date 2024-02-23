@@ -10,9 +10,9 @@ C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0\ToDoTasks.Infraestructure.AssemblyInfo.cs
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0\ToDoTasks.Infraestructure.csproj.CoreCompileInputs.cache
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0\ToDoTasks.Infraestructure.sourcelink.json
-C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0\ToDoTasks.Infraestructure.csproj.CopyComplete
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0\ToDoTasks.Infraestructure.dll
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0\refint\ToDoTasks.Infraestructure.dll
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0\ToDoTasks.Infraestructure.pdb
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0\ToDoTasks.Infraestructure.genruntimeconfig.cache
 C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0\ref\ToDoTasks.Infraestructure.dll
+C:\Users\jhoss\source\repos\ToDoTasks\ToDoTasks.Infraestructure\obj\Debug\net8.0\ToDoTask.998A71EC.Up2Date

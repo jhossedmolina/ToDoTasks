@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA20300-C7B9-4601-AD9C-2EDB935A8B58}|ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj|c:\\users\\jhoss\\source\\repos\\todotasks\\todotasks.infraestructure\\validators\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA20300-C7B9-4601-AD9C-2EDB935A8B58}|ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj|solutionrelative:todotasks.infraestructure\\validators\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA20300-C7B9-4601-AD9C-2EDB935A8B58}|ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj|c:\\users\\jhoss\\source\\repos\\todotasks\\todotasks.infraestructure\\validators\\todotaskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA20300-C7B9-4601-AD9C-2EDB935A8B58}|ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj|solutionrelative:todotasks.infraestructure\\validators\\todotaskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EE591F-396A-4C6A-A865-45948C41F5E0}|ToDoTasks.Core\\ToDoTasks.Core.csproj|c:\\users\\jhoss\\source\\repos\\todotasks\\todotasks.core\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EE591F-396A-4C6A-A865-45948C41F5E0}|ToDoTasks.Core\\ToDoTasks.Core.csproj|solutionrelative:todotasks.core\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EE591F-396A-4C6A-A865-45948C41F5E0}|ToDoTasks.Core\\ToDoTasks.Core.csproj|c:\\users\\jhoss\\source\\repos\\todotasks\\todotasks.core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EE591F-396A-4C6A-A865-45948C41F5E0}|ToDoTasks.Core\\ToDoTasks.Core.csproj|solutionrelative:todotasks.core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA20300-C7B9-4601-AD9C-2EDB935A8B58}|ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj|c:\\users\\jhoss\\source\\repos\\todotasks\\todotasks.infraestructure\\todotasks.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BA20300-C7B9-4601-AD9C-2EDB935A8B58}|ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj|solutionrelative:todotasks.infraestructure\\todotasks.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EE591F-396A-4C6A-A865-45948C41F5E0}|ToDoTasks.Core\\ToDoTasks.Core.csproj|c:\\users\\jhoss\\source\\repos\\todotasks\\todotasks.core\\dtos\\todotaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EE591F-396A-4C6A-A865-45948C41F5E0}|ToDoTasks.Core\\ToDoTasks.Core.csproj|solutionrelative:todotasks.core\\dtos\\todotaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 275,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoTaskValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Infraestructure\\Validators\\ToDoTaskValidator.cs",
+              "RelativeDocumentMoniker": "ToDoTasks.Infraestructure\\Validators\\ToDoTaskValidator.cs",
+              "ToolTip": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Infraestructure\\Validators\\ToDoTaskValidator.cs",
+              "RelativeToolTip": "ToDoTasks.Infraestructure\\Validators\\ToDoTaskValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T02:59:24.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Infraestructure\\Validators\\CategoryValidator.cs",
+              "RelativeDocumentMoniker": "ToDoTasks.Infraestructure\\Validators\\CategoryValidator.cs",
+              "ToolTip": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Infraestructure\\Validators\\CategoryValidator.cs",
+              "RelativeToolTip": "ToDoTasks.Infraestructure\\Validators\\CategoryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T02:59:17.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoTask.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Core\\Entities\\ToDoTask.cs",
+              "RelativeDocumentMoniker": "ToDoTasks.Core\\Entities\\ToDoTask.cs",
+              "ToolTip": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Core\\Entities\\ToDoTask.cs",
+              "RelativeToolTip": "ToDoTasks.Core\\Entities\\ToDoTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T16:34:17.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Core\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ToDoTasks.Core\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Core\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "ToDoTasks.Core\\DTOs\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T16:43:04.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoTasks.Infraestructure.csproj",
+              "DocumentMoniker": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj",
+              "RelativeToolTip": "ToDoTasks.Infraestructure\\ToDoTasks.Infraestructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-30T15:58:55.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Core\\DTOs\\ToDoTaskDto.cs",
+              "RelativeDocumentMoniker": "ToDoTasks.Core\\DTOs\\ToDoTaskDto.cs",
+              "ToolTip": "C:\\Users\\jhoss\\source\\repos\\ToDoTasks\\ToDoTasks.Core\\DTOs\\ToDoTaskDto.cs",
+              "RelativeToolTip": "ToDoTasks.Core\\DTOs\\ToDoTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T22:37:05.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
